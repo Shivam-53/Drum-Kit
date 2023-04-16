@@ -67,9 +67,6 @@
             kick.play();
             break;
 
-        default: key;
-
-
     }
 }
  
